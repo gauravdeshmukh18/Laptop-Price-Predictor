@@ -6,7 +6,7 @@ In this notebook, we are going to predict the purchasing amount of customize lap
 All the Data Science steps which required for the best predictions has been followed below from data collection to Mmdel deployment.
 
 ## Purchase amount:
-![image](https://user-images.githubusercontent.com/103682825/176012451-1000d686-36e5-4d2b-9785-8916c6798230.png)
+![image](https://user-images.githubusercontent.com/103682825/176014517-414802a6-66df-4d36-82aa-1d7d1d624ec3.png)
 
 ## Conclusion:
 In this project, we tried to build a model using various algorithms such as Linear regression, Ridge regression, Lasso regression, KNN regressor, Decision tree regressor, SVM regressor, Random forest regressor and XGB regressor to get the best possible prediction.
